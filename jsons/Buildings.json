@@ -33,7 +33,7 @@
 			"Only available <if [Tele-Temple] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
 			"Instantly consumes [10] [Blood]",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Can only be built <in [Holy] cities>",
 			"[non-air] units gain the [Blood Frenzy] promotion",
 			"All newly-trained [non-air] units [in all cities] receive the [Blood Frenzy] promotion",
