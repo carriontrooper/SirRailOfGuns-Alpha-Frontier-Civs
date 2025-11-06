@@ -38,7 +38,7 @@
 		"obsoleteTech": "Next-Gen Armaments",
 		"uniques": [
 			"Mercenary",
-			"Unbuildable <for [Human player]>",
+			"Unbuildable <for [Human player] Civilizations>",
 			"Can only be built <in cities with a [Mercenary Offices]>",
 			"Can move immediately once bought",
 			"Limited to [10] per Civilization",
@@ -102,7 +102,7 @@
 			"[-25]% Strength <vs cities>",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Mercenary",
-			"Unbuildable <for [Human player]>",
+			"Unbuildable <for [Human player] Civilizations>",
 			"Can only be built <in cities with a [Mercenary Offices]>",
 			"Can move immediately once bought",
 			"Limited to [6] per Civilization",
@@ -174,7 +174,7 @@
 		"requiredTech": "Cybernetics",
 		"uniques": [
 			"Mercenary",
-			"Unbuildable <for [Human player]>",
+			"Unbuildable <for [Human player] Civilizations>",
 			"Can only be built <in cities with a [Mercenary Offices]>",
 			"Can move after attacking",
 			"Ignores Zone of Control",
