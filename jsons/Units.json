@@ -129,7 +129,7 @@
 		"uniques": [
 			"[+100]% Strength <vs cities> <when attacking>",
 			"[-75]% Strength <when defending>",
-			"[-25]% Strength <when adjacent to a [Enemy] unit>",
+			"[-25]% Strength <when adjacent to a [Hostile] unit>",
 			"Must set up to ranged attack",
 			"[100]% Strength bonus for [Air] units within [3] tiles",
 			"Never appears as a Barbarian unit"
